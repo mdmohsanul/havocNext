@@ -7,10 +7,6 @@ import { people } from "@/data/people";
 const Instructors = () => {
   return (
   <div className=" relative h-[40rem] overflow-hidden">
-
-
-
-  
     <WavyBackground className="max-w-4xl mx-auto ">
       <p className="text-2xl md:text-4xl lg:text-7xl text-white font-bold inter-var text-center">
        Meet Our Instructors
